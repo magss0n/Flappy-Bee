@@ -1,5 +1,5 @@
 # Flappy-Bee
-=======
+
 This is a copycat of the game Flappy Bird made with Kotlin using KMP which targets Android, iOS, Web, Desktop.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
